@@ -1,5 +1,5 @@
 import java.util.*;
-
+// This is an example of Strategy Pattern
 class Course{
     private String _cnum;
     private int _credits;
